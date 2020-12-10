@@ -1,0 +1,2 @@
+D:\Parimatch\Project\Homework\Kotlin Koans\Collections\Max min\src\Shop.kt
+D:\Parimatch\Project\Homework\Kotlin Koans\Collections\Max min\src\Task.kt
